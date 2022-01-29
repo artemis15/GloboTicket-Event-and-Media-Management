@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>f267c4a62f1101101795af5df699b63e</logo>
+        <menu/>
+        <name>GloboTicket Event and Media Management</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1966_gt_evt_mgmt</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Application for Event Organizer department is responsible for organization’s Event and Social Media Management proces </short_description>
+        <source>x_1966_gt_evt_mgmt</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 17:58:45</sys_created_on>
+        <sys_id>de6784262f1101101795af5df699b652</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-29 17:58:47</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>_Export_globoticket-bug-2c.png</file_name>
+        <hash>da249d27b87f4c979ac305c61b9330a9d684ef3fd561df1424562e01eb920793</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1909</size_bytes>
+        <size_compressed>1911</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 17:58:47</sys_created_on>
+        <sys_id>f267c4a62f1101101795af5df699b63e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-01-29 17:58:49</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>de6784262f1101101795af5df699b652</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="_Export_globoticket-bug-2c.png" sys_id="f267c4a62f1101101795af5df699b63e">f267c4a62f1101101795af5df699b63e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 17:58:47</sys_created_on>
+        <sys_id>3667c4a62f1101101795af5df699b63e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>fZVnPBsIA8ZTpUSqFevaulKkYqbXqz3PTuQIoUYaGlV7VBC77qhYqU3TUJsWsZULalObWrFiNCGUNnpWp97r/fz+3vvwf/5fn0/Pk2RlaSbAf4UfAAAIIODG6FP7n+LEd+40jZttPp8KGAB3DAIAQEL/5cz0SvR3AIAXijA2sA179sFpBc+EC3Ja20IPxkj5Z+7j1GJdSQAx6J8EcPWN2E04TgrgjecmyTgI9/SA6tTAY3P1hVEK9MznZrqZpup3Rd3IIAgFtXJwtAb3qpGX1vkupgkSzqD9Bk4Cifw//d0+OcpBuasbB8+w69g0Z9+ZtRz0ls8cZk+8Qw4Udj01UUi67VNUapUVZRKVtN2E3tLPT9y+fMOIY+dzsvSEdPxBIaEgbU/Y3jiYJL4nDu6QKy/IQSO8KRbSQoN9fyZ2Ck7pm1emoL1nZ4lhMrX6lJSA+RDRPwSnQstnW4BcDzGMWVbDctzy+ZjmVqsb/T1Lel80QkgufDp1MQRsiQb+ZLjazBj5jnWOq0klKuboKMq50VMDMP04uLMl7FtqIkamjpiBWXPwOXnP4r6nCz0Z9uVDijtEbxipffYD1VtS7C9WLbzCEp8k8ZjpDVF98UOpOsFuFkZ0yPgz3+kuI80rParu6Z6roXb50xsNSWetbRgZMvFE0asHxTs3A+tzGr1rjsQgh+lgcyXgoaHE8m3Dm9F1EUxWRDEkLfQMqySTFfHWAhLTzWtqPomdsVK4uGRLwOV8cdJq3/ekyxWWTaFAUXMYceo3AHoEp/RAplztIZSy1gcM9eYfpm1NqLuQf4GJxLr7NPie/9hl/6NwV5ZT3Zi6O7DodAhtqnTbxgUx3uE7FhxefRLYk4MbqnbHyU+2zAEO9BLJ19EuJjR1fAE9l1BDrnhEO2ub2/pmE9+h8cdlPkk21yDqwTkqca3fziq+fMdKntBNmByly6br2JkrK4sc/7yhOdjQmRSpVftTFwRnsGQnB9RtlrKQVyXmMR0+q/YnNGRCWcyR7GJ6RHKEMzh8PoA84d1mh7/3q2L6D/04eLtiUJp5ZXFlKXhqPtl/8b5RtFy5b+f7fsN626rdhqRbeHDZ97vPJl10I2+KunM0gz46yBrj3NRKYh5NylWIVfa1DqSEzyUOXJ0HcRDXkRIJjY1g+LedSlmNIW4WeavZkYV+7NR31oOZbuDFj1AIXDWKVyn8TNSR9YrLG6n0d7y+OWdbPMtXwCAINDLUveTR+75GMZ9+IVjPw6r2TQPyAw1qSa9X7srrBXYD3qZSkRKXzgyMu8bTBSPlEFeWE7kkKyIsQybNPfs320Tgu1ZIpCuH11Cmdkjgq4LAXMwdjqahNCedrRHU3emzzN00gYdBIczAebWKtjeRGtpIbEazKt1aic8OywCSduHUSI8kxdh5ide56/k0j+xdSZ8fg8lYN6rHx6jucq2Pyddo9Gz7pJLsipIuA5+aMmeGQrIyUw5fhBNOuLddwfkCsB0/qKceYJYAZMjBGyPJMoFkbri9h2AgOJOqJF171Hcstu1LKBq63eIfBjm7fClrUzXXM5FgYh1inK0xGl+k7llDWn0g7tqoBDttuYedOajIXgKq8eD5BxIyR+L82F1NtftV+hTR2wBIro9T+jfiraU9S4ZL+hsmDct8SUcyTgilFaaeed/d27+uJ/bRAiV2/HFaQPAgJwuYQqOWIH46L/nDiXU0hvz6jx+pvVnwL7MfNcC/7qeLOF51p+8Mlb1PnoVEaPslt6fB+iRhCLZu29M8Beell/5pOlmhjQGjLVJEm516c5CW+p2GOPEmyqpS30NrjlDoxyGbd5XBUB6HPIsB5roW1L6cJ1+0rBctPDsBMb+aJ0T2Mn042OuW84jHS9fUk8mgsCPD9AUsP5FTqjUmnt/LSqMsyIsCtoty21/2uNX3RmHfRtwPmWvyNVGns7GA2qB5onDnq3B3BcLjjmtUHAF7o7oX8Hup7O9cksUSSFflshHfJpgk9bGweoPTa5i2yVLhGJurfQiTZfaPm8preOnK+tZtd/sFe+4B8eXH54IMtxE+TgiGavPk8IWg5TqHF84KEmm0DUQsIncoGmrBs/7I1rLPr3ZEH52MOt2hO5mOYF6GjEe1YsZC2fPhMQRdq2zkV/cPS2RIqQlutnRRM8YR4SD1AnPZQois3AO3qx/HHI2/OHK5NaVrs/GUYDGWo+0X+TS8oFvwCQvD67NJT9g78/figsuogPl88PCHPZNjahyOoi244M0s0jMLw7dojxk+U8lkeGYzyk4KGSN1KrCCw5sj92/Fcwn/5gyX8WJuQ8OBx+yLXO+OSf0Xi0brM7EzMCmY5enevIppjVXr6fcK1UPIpFUFKtjy8Amg+Go7QsMjpS4YEGzGtS2uNTdaO6F69y8PnkgW6AYYLm4/v6A42iuOl3sZQrjkygvapRwTZSVQ7HapFmTfJVSFJMb+fFSvOr64dVSXT3oDNaMcvfwJB3qnASuR6E+a/ddb+h+BjQ9vrK6t7Dh+rZo+/VEAwsTSuNYQF/sfNLyBYHUHAAA=</data>
+        <length>2536</length>
+        <position>1</position>
+        <sys_attachment display_value="_Export_globoticket-bug-2c.png" sys_id="f267c4a62f1101101795af5df699b63e">f267c4a62f1101101795af5df699b63e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 17:58:47</sys_created_on>
+        <sys_id>b667c4a62f1101101795af5df699b63e</sys_id>
+    </sys_attachment_doc>
+</record_update>
