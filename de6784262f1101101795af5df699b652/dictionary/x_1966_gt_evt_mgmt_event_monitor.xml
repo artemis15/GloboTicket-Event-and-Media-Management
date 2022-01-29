@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Event Monitor" max_length="40" name="x_1966_gt_evt_mgmt_event_monitor" type="collection">
+        <element label="Assessment notes" max_length="1000" name="assessment_notes" type="string"/>
+        <element label="Event Problem" max_length="32" name="event_problem" reference="x_1966_gt_evt_mgmt_event_problem" type="reference"/>
+        <element label="Reply" max_length="40" name="reply" type="boolean"/>
+        <element label="Response" max_length="1000" name="response" type="string"/>
+        <element choice="1" label="Source" max_length="40" name="source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Youtube" sequence="0" value="youtube"/>
+                <element inactive_on_update="false" label="Snapchat" sequence="1" value="snapchat"/>
+                <element inactive_on_update="false" label="MX Takatak" sequence="2" value="mx takatak"/>
+                <element inactive_on_update="false" label="Facebook" sequence="3" value="facebook"/>
+                <element inactive_on_update="false" label="Twitter" sequence="4" value="twitter"/>
+                <element inactive_on_update="false" label="Instagram" sequence="5" value="instagram"/>
+                <element inactive_on_update="false" label="Linkedin" sequence="6" value="linkedin"/>
+                <element inactive_on_update="false" label="Other" sequence="7" value="other"/>
+            </choice>
+        </element>
+        <element label="Other" max_length="40" name="source_other" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Positive" sequence="0" value="positive"/>
+                <element inactive_on_update="false" label="Negative" sequence="1" value="negative"/>
+            </choice>
+        </element>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <element label="User's handle" max_length="250" name="user_s_handle" type="string"/>
+        <element label="Valid concern" max_length="40" name="valid" type="boolean"/>
+    </element>
+</database>
