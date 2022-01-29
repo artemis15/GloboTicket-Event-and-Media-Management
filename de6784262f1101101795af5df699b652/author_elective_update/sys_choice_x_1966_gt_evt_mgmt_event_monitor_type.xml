@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_1966_gt_evt_mgmt_event_monitor" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_1966_gt_evt_mgmt_event_monitor</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 19:11:24</sys_created_on>
+            <sys_id>f20814662f5101101795af5df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="GloboTicket Event and Media Management" source="x_1966_gt_evt_mgmt">de6784262f1101101795af5df699b652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GloboTicket Event and Media Management">de6784262f1101101795af5df699b652</sys_scope>
+            <sys_update_name>sys_choice_x_1966_gt_evt_mgmt_event_monitor_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 19:11:24</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Positive</label>
+            <language>en</language>
+            <name>x_1966_gt_evt_mgmt_event_monitor</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 19:11:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba0814662f5101101795af5df699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 19:11:24</sys_updated_on>
+            <value>positive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Negative</label>
+            <language>en</language>
+            <name>x_1966_gt_evt_mgmt_event_monitor</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 19:11:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>360814662f5101101795af5df699b6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 19:11:24</sys_updated_on>
+            <value>negative</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

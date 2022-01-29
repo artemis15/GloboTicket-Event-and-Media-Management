@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="45c0d4ae2f1101101795af5df699b634" sys_domain="global" table="x_1966_gt_evt_mgmt_event_monitor" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 18:39:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09c0d4ae2f1101101795af5df699b68e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1966_gt_evt_mgmt_event_monitor" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">45c0d4ae2f1101101795af5df699b634</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">858f806e2f1101101795af5df699b629</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 18:39:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 18:39:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05c0d4ae2f1101101795af5df699b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1966_gt_evt_mgmt_event_monitor" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">45c0d4ae2f1101101795af5df699b634</sys_ui_form>
+            <sys_ui_section caption="Monitoring Assessment" display_value="Monitoring Assessment" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">cdc0d4ae2f1101101795af5df699b630</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 18:39:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 18:39:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01c0d4ae2f1101101795af5df699b693</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1966_gt_evt_mgmt_event_monitor" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">45c0d4ae2f1101101795af5df699b634</sys_ui_form>
+            <sys_ui_section caption="Monitoring Action" display_value="Monitoring Action" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">c9c0d4ae2f1101101795af5df699b631</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 18:39:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 18:39:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49c0d4ae2f1101101795af5df699b696</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1966_gt_evt_mgmt_event_monitor" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">45c0d4ae2f1101101795af5df699b634</sys_ui_form>
+            <sys_ui_section caption="Internal Monitoring Notes" display_value="Internal Monitoring Notes" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">c5c0d4ae2f1101101795af5df699b632</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 18:39:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 18:39:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95c0d4ae2f1101101795af5df699b69a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1966_gt_evt_mgmt_event_monitor" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">45c0d4ae2f1101101795af5df699b634</sys_ui_form>
+            <sys_ui_section caption="Monitoring Approval history" display_value="Monitoring Approval history" name="x_1966_gt_evt_mgmt_event_monitor" sys_domain="global" view="Default view">c1c0d4ae2f1101101795af5df699b633</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 18:39:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1966_gt_evt_mgmt_event_monitor</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-29 18:39:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45c0d4ae2f1101101795af5df699b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1966_gt_evt_mgmt_event_monitor</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GloboTicket Event and Media Management" source="x_1966_gt_evt_mgmt">de6784262f1101101795af5df699b652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GloboTicket Event and Media Management">de6784262f1101101795af5df699b652</sys_scope>
+            <sys_update_name>sys_ui_form_sections_45c0d4ae2f1101101795af5df699b634</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-29 18:39:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
