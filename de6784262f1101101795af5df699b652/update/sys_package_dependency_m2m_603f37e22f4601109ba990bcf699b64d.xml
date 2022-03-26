@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">e04e166aa5300110c0a0e1db2cdc951d</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 18:28:57</sys_created_on>
+        <sys_id>603f37e22f4601109ba990bcf699b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="GloboTicket Event and Media Management" source="x_1966_gt_evt_mgmt">de6784262f1101101795af5df699b652</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-29 18:28:57</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

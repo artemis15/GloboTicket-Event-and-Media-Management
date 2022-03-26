@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Event Problem" max_length="40" name="x_1966_gt_evt_mgmt_event_problem" type="collection"/>
+    <element extends="task" label="Event Problem" max_length="40" name="x_1966_gt_evt_mgmt_event_problem" sizeclass="0" type="collection"/>
 </database>
